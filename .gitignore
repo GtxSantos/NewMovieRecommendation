@@ -1,0 +1,11 @@
+# Logs
+logs
+*.log
+
+# Dependências
+node_modules/
+
+# Arquivos de build do Vite
+dist
+dist-ssr
+*.local
