@@ -1,4 +1,5 @@
 # Modern Movie Recommendation System
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/16dbef4e-b5f3-4312-a584-9d2755346608" />
 
 Um sistema moderno de recomendação de filmes que utiliza algoritmos de Machine Learning (Content-Based e Collaborative Filtering) para fornecer sugestões personalizadas.
 
